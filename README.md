@@ -84,7 +84,9 @@ plt.ylim(0, sr/2)
 plt.show()
 ```
 #AUDIO USED:
-https://github.com/user-attachments/files/22881816/good-morning-242169.mp3
+
+"C:\Users\acer\Downloads\good-morning-242169.mp3"
+
 
 # OUTPUT: 
 
