@@ -83,10 +83,6 @@ plt.title("Spectrogram (dB)")
 plt.ylim(0, sr/2)
 plt.show()
 ```
-#AUDIO USED:
-
-"C:\Users\acer\Downloads\good-morning-242169.mp3"
-
 
 # OUTPUT: 
 
